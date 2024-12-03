@@ -1,5 +1,7 @@
 # al-folio
 
+Commit: https://github.com/alshedivat/al-folio/commit/8babc442a5dc21329b19bd4e4c09e2688a0713d9
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
